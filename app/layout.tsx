@@ -35,8 +35,6 @@ export default function RootLayout({
             >
                 <ModalProvider/>
                 {children}
-
-
             </ThemeProvider>
 
             </body>
